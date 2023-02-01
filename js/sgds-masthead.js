@@ -6983,8 +6983,8 @@ a[target=_blank]:after {
 }
 
 .row {
-  padding-top: 0.1rem;
-  padding-bottom: 0.1rem;
+  padding-top: 0rem;
+  padding-bottom: 0rem;
 }
 @media screen and (max-width: 1023px) {
   .row {
